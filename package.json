@@ -1,0 +1,27 @@
+{
+  "name": "eason",
+  "version": "1.0.0",
+  "description": "webpack-practice",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonChangOP/webpack-practice.git"
+  },
+  "keywords": [
+    "webpack-practice"
+  ],
+  "author": "easonchang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasonChangOP/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/EasonChangOP/webpack-practice#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.19.0",
+    "webpack": "^1.13.1"
+  }
+}
