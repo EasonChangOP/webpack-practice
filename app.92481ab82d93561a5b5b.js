@@ -1,0 +1,2 @@
+webpackJsonp([0,3],[function(n,e,o){var t=o(1);document.body.appendChild(t()),o(2);var t=o(1)},function(n,e){n.exports=function(){var n=document.createElement("h1");return n.className="pure-button",n.innerHTML="Hellsasdso World",n}}]);
+//# sourceMappingURL=app.92481ab82d93561a5b5b.js.map
